@@ -1,0 +1,16 @@
+#ignorar todos os diretorios listados abaixo em qualquer subdiretorio
+
+nbproject/private/
+build/
+test/
+
+#ignorar todos os arquivos por extensao
+
+*~
+*.class
+*.log
+*.rar
+*.zip
+
+#ignorar todos os arquivos por nome e extensao
+
